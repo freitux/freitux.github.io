@@ -1,0 +1,5 @@
+baseURL = "https://freitux.github.io/"
+languageCode = "de-de"
+title = "FreiTux GitHub Page"
+
+publishDir = "public"
